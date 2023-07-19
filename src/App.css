@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.paragraph-container {
+  margin-left: 20px; /* Adjust the value as per your preference */
+}
+

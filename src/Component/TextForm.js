@@ -78,7 +78,7 @@ export default function TextForm(props) {
             </div> */
             }
             
-      <div className="com paragraph-container"> {/* Added the paragraph-container class */}
+      <div className="com paragraph-container">{}
         <p>Your Text Summary</p>
         <p>{oldtext.split(" ").length} words and {oldtext.length} characters</p>
         <p>User Can Take {oldtext.split(" ").length * 0.008} minutes to read the above text</p>
